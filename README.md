@@ -42,5 +42,5 @@ Coursework and experiments in **data analysis**, **Jupyter notebooks**, and appl
 ## Contact
 
 - Email: `bazdireev.l@gmail.com`
-- GitHub: [reev1l](https://github.com/XXXXXX1X1)
-- Telegram: [@username](https://t.me/username)
+- GitHub: [reev1l](https://github.com/reev1l)
+- Telegram: [@reev_l](https://t.me/reev_l)
