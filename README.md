@@ -4,9 +4,9 @@
 
 I am a 3rd-course student at **Novosibirsk State University** focused on **Python**, **backend development**, and **ML/CV projects**.
 
-- 🔭 Building academic and pet projects in **FastAPI, PostgreSQL, PyTorch, scikit-learn, and OpenCV**
-- 🌱 Interested in **Python Backend**, **Machine Learning**, **Computer Vision**, and **GenAI**
-- ⚡ Used to high workload, systematic work, and long-term discipline
+- Building academic and pet projects in **FastAPI, PostgreSQL, PyTorch, scikit-learn, and OpenCV**
+- Interested in **Python Backend**, **Machine Learning**, **Computer Vision**, and **GenAI**
+- Used to high workload, systematic work, and long-term discipline
 
 ## Tech Stack
 
@@ -38,13 +38,6 @@ A collection of academic and practical work in **machine learning**, **computer 
 ### PAC
 Coursework and experiments in **data analysis**, **Jupyter notebooks**, and applied Python tasks.
 - **Core stack:** Python, Jupyter Notebook, pandas, NumPy
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Contact
 
