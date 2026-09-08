@@ -1,5 +1,9 @@
 # Hi, I'm Lev Bazdyrev
-
+<p align="left">
+  <img src="https://img.shields.io/badge/GITHUB-reev1l-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub" />
+  <img src="https://img.shields.io/badge/NSU-NOVOSIBIRSK_STATE_UNIVERSITY-005BAA?style=for-the-badge&labelColor=555555" alt="NSU" />
+  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-28A745?style=for-the-badge&labelColor=555555" alt="Open to Internships" />
+</p>
 ## About Me
 
 I am a 3rd-course student at **Novosibirsk State University** focused on **Python**, **backend development**, and **ML/CV projects**.
