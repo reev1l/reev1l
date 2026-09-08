@@ -36,20 +36,6 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
-## Featured Projects
-
-### EngageX
-AI-powered platform with **Python backend**, **Telegram workflows**, **PostgreSQL**, and **LLM-related components**.
-- **Core stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Aiogram, Telethon, PyTorch, Transformers, Docker
-
-### NSU-project
-A collection of academic and practical work in **machine learning**, **computer vision**, and **Python development**.
-- **Core stack:** Python, scikit-learn, PyTorch, OpenCV, TensorFlow/Keras, XGBoost
-
-### PAC
-Coursework and experiments in **data analysis**, **Jupyter notebooks**, and applied Python tasks.
-- **Core stack:** Python, Jupyter Notebook, pandas, NumPy
-
 ## Contact
 
 - Email: `bazdireev.l@gmail.com`
