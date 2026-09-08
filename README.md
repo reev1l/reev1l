@@ -39,9 +39,9 @@ A collection of academic and practical work in **machine learning**, **computer 
 Coursework and experiments in **data analysis**, **Jupyter notebooks**, and applied Python tasks.
 - **Core stack:** Python, Jupyter Notebook, pandas, NumPy
 
-## GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reev1l&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reev1l&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## Contact
