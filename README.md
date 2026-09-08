@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-28A745?style=for-the-badge&labelColor=555555" alt="Open to Internships" />
 </p>
 
-I am a 3rd-year Mechatronics, Robotics, and Artificial Intelligence student at **Novosibirsk State University**, specializing in **Machine Learning**, **Computer Vision**, and **Data Science**.
+3rd-year Mechatronics, Robotics, and Artificial Intelligence student at **Novosibirsk State University**, specializing in **Machine Learning**, **Computer Vision**, and **Data Science**.
 
 - **ML & CV Engineering:** Designing and training neural networks for object detection and image segmentation using **PyTorch**, **OpenCV**, **YOLO**, and **U-Net**.
 - **Systems & Parallel Computing:** Developing optimized concurrent pipelines and algorithms with **C/C++**, **OpenMP**, **CUDA**, and asynchronous **Python**.
