@@ -5,14 +5,13 @@
   <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-28A745?style=for-the-badge&labelColor=555555" alt="Open to Internships" />
 </p>
 
-## About Me
+I am a 3rd-year Computer Science student at **Novosibirsk State University**, specializing in **Machine Learning**, **Computer Vision**, and **Data Science** [web:14][web:17].
 
-I am a 3rd-course student at **Novosibirsk State University** focused on **Python**, **backend development**, and **ML/CV projects**.
-
-- Building academic and pet projects in **FastAPI, PostgreSQL, PyTorch, scikit-learn, and OpenCV**
-- Interested in **Python Backend**, **Machine Learning**, **Computer Vision**, and **GenAI**
-- Used to high workload, systematic work, and long-term discipline
-
+- **ML & CV Engineering:** Designing and training neural networks for object detection and image segmentation using **PyTorch**, **OpenCV**, **YOLO**, and **U-Net** [web:17][web:27].
+- **Systems & Parallel Computing:** Developing optimized concurrent pipelines and algorithms with **C/C++**, **OpenMP**, **CUDA**, and asynchronous **Python** [web:17].
+- **Backend & Infrastructure:** Architecting robust REST APIs and scalable microservices with **FastAPI**, **PostgreSQL**, **Docker**, and modern asynchronous libraries [web:17][web:27].
+- **Focus Areas:** Deep Learning optimization, model deployment, high-concurrency systems, and practical AI applications [web:17].
+- 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
