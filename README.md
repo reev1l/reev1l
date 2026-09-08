@@ -33,8 +33,8 @@ I am a 3rd-year Mechatronics, Robotics, and Artificial Intelligence student at *
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reev1l&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reev1l&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ## Featured Projects
