@@ -25,6 +25,11 @@ I am a 3rd-course student at **Novosibirsk State University** focused on **Pytho
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reev1l&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ## Featured Projects
 
 ### EngageX
@@ -38,11 +43,6 @@ A collection of academic and practical work in **machine learning**, **computer 
 ### PAC
 Coursework and experiments in **data analysis**, **Jupyter notebooks**, and applied Python tasks.
 - **Core stack:** Python, Jupyter Notebook, pandas, NumPy
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reev1l&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Contact
 
