@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Lev Bazdyrev</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB-reev1l-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub" />
   <img src="https://img.shields.io/badge/NSU-NOVOSIBIRSK_STATE_UNIVERSITY-005BAA?style=for-the-badge&labelColor=555555" alt="NSU" />
