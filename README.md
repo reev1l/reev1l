@@ -41,8 +41,7 @@ Coursework and experiments in **data analysis**, **Jupyter notebooks**, and appl
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reev1l&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reev1l&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## Contact
