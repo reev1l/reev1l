@@ -39,6 +39,20 @@ A collection of academic and practical work in **machine learning**, **computer 
 Coursework and experiments in **data analysis**, **Jupyter notebooks**, and applied Python tasks.
 - **Core stack:** Python, Jupyter Notebook, pandas, NumPy
 
+## GitHub Stats
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=reev1l&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reev1l&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
 ## Contact
 
 - Email: `bazdireev.l@gmail.com`
